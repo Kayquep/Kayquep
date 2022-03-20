@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayquep&label=Profile%20views&color=0e75b6&style=flat" alt="kayquep" /> </p>
 
 
-- 🔭 I’m currently working at **LiberFly**
-
-- 🌱 I’m currently learning **about QA**
+- 🔭 I’m currently working at **Appmax**
 
 - 📫 How to reach me **kayquepagiola10@gmail.com**
 
